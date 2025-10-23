@@ -14,6 +14,15 @@ Penugasan Program menggunakan konsep code yang telah disediakan, dengan mengadap
 - Mengunakan service
 
 ---
+- apip = 1.cpp
+- rizky aji = 2.cpp
+- karleon = 3.cpp
+- alya = 4.cpp
+- zaki = 5.cpp
+- zico = 6.cpp
+- nabil = 7.cpp
+- joshua = 8.cpp
+---
 
 ## 📅 Ketentuan Pengumpulan
 - **Deadline**: Selasa, 27 Oktober 2024, pukul 24.00 WIB  
